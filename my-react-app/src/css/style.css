@@ -1,0 +1,17 @@
+body button{
+    text-transform: uppercase;
+    border: none;
+    padding: 10px;
+     color:crimson;
+    letter-spacing: 1px;
+    border-radius:10px;
+    background-color:darkgreen;
+}
+
+.container{
+    text-align:center;
+    display:block;
+}
+.Application{
+    color:green;
+}
